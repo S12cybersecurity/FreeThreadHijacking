@@ -1,0 +1,20 @@
+﻿  FreeThreadHijacking.cpp
+V:\MalwareDeveloped\FreeThreadHijacking\FreeThreadHijacking\MapFreeMemoryObjects.h(65,18): warning C4101: 'status': unreferenced local variable
+V:\MalwareDeveloped\FreeThreadHijacking\FreeThreadHijacking\MapFreeMemoryObjects.h(67,15): warning C4101: 'objectNameInfo': unreferenced local variable
+V:\MalwareDeveloped\FreeThreadHijacking\FreeThreadHijacking\MapFreeMemoryObjects.h(69,24): warning C4101: 'objectName': unreferenced local variable
+V:\MalwareDeveloped\FreeThreadHijacking\FreeThreadHijacking\MapFreeMemoryObjects.h(115,18): warning C4101: 'status': unreferenced local variable
+V:\MalwareDeveloped\FreeThreadHijacking\FreeThreadHijacking\MapFreeMemoryObjects.h(117,15): warning C4101: 'objectNameInfo': unreferenced local variable
+V:\MalwareDeveloped\FreeThreadHijacking\FreeThreadHijacking\MapFreeMemoryObjects.h(119,24): warning C4101: 'objectName': unreferenced local variable
+V:\MalwareDeveloped\FreeThreadHijacking\FreeThreadHijacking\MapFreeMemoryObjects.h(165,18): warning C4101: 'status': unreferenced local variable
+V:\MalwareDeveloped\FreeThreadHijacking\FreeThreadHijacking\MapFreeMemoryObjects.h(167,15): warning C4101: 'objectNameInfo': unreferenced local variable
+V:\MalwareDeveloped\FreeThreadHijacking\FreeThreadHijacking\MapFreeMemoryObjects.h(169,24): warning C4101: 'objectName': unreferenced local variable
+V:\MalwareDeveloped\FreeThreadHijacking\FreeThreadHijacking\MapFreeMemoryObjects.h(215,18): warning C4101: 'status': unreferenced local variable
+V:\MalwareDeveloped\FreeThreadHijacking\FreeThreadHijacking\MapFreeMemoryObjects.h(217,15): warning C4101: 'objectNameInfo': unreferenced local variable
+V:\MalwareDeveloped\FreeThreadHijacking\FreeThreadHijacking\MapFreeMemoryObjects.h(219,24): warning C4101: 'objectName': unreferenced local variable
+V:\MalwareDeveloped\FreeThreadHijacking\FreeThreadHijacking\MapFreeMemoryObjects.h(265,18): warning C4101: 'status': unreferenced local variable
+V:\MalwareDeveloped\FreeThreadHijacking\FreeThreadHijacking\MapFreeMemoryObjects.h(267,15): warning C4101: 'objectNameInfo': unreferenced local variable
+V:\MalwareDeveloped\FreeThreadHijacking\FreeThreadHijacking\MapFreeMemoryObjects.h(269,24): warning C4101: 'objectName': unreferenced local variable
+V:\MalwareDeveloped\FreeThreadHijacking\FreeThreadHijacking\FreeThreadHijacking.cpp(51): warning C4715: 'getHandleProcessByPID': not all control paths return a value
+  FreeThreadHijacking.vcxproj -> V:\MalwareDeveloped\FreeThreadHijacking\x64\Debug\FreeThreadHijacking.exe
+  'pwsh.exe' is not recognized as an internal or external command,
+  operable program or batch file.
